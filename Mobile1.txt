@@ -1,2 +1,5 @@
 Redmi1
 Redmi2
+Redmi3
+
+
